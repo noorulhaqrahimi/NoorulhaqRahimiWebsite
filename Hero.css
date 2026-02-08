@@ -716,13 +716,14 @@ body {
     font-size: 2rem;
   }
 
+  .close-menu {
+    font-size: 2rem;
+  }
+  
   .nav-bar{
     padding: 27px;
   }
 
-  .close-menu {
-    font-size: 1.6rem;
-  }
 
   .first {
     display: flex;
