@@ -1015,6 +1015,10 @@ nav a{
 }
 
 @media (min-width: 770px){
+  nav a{
+    font-size: 30px;
+    margin-top: 35px;
+  }
 .exp {
   text-align: center;
   line-height: 1.5;
@@ -1074,26 +1078,26 @@ nav a{
 }
 }
 
-@media (min-width: 950px){
+@media (min-width: 850px){
 nav a{
-  font-size: 23px;
-  margin-top: 20px;
+  font-size: 33px;
+  margin-top: 40px;
 }
 
 .logo{
-  font-size: 23px;
+  font-size: 32px;
 }
 
 .nav-bar{
-  padding: 20px;
+  padding: 28px;
 }
 
 .open-menu{
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 .close-menu{
-  font-size: 1.6rem;
+  font-size: 2rem;
 }
 
 .about {
