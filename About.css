@@ -1325,7 +1325,7 @@ nav a{
 
 .premiere {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1333,13 +1333,13 @@ nav a{
 }
 
 .Premiere1{
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .audition {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1347,13 +1347,13 @@ nav a{
 }
 
 .audition1{
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .lightroom {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1361,12 +1361,12 @@ nav a{
 }
 
 .lightroom img {
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .logotext{
-  font-size: 16px;
+  font-size: 25px;
 }
 
 .btn-cvv {
@@ -1377,8 +1377,8 @@ nav a{
 .btn-cv {
   border-style: none;
   color: #fff;
-  font-size: 18px;
-  padding: 28px 70px;
+  font-size: 30px;
+  padding: 30px 100px;
   border-radius: 20px;
   margin-top: 30px;
   margin-bottom: 30px;
