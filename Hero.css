@@ -700,16 +700,24 @@ body {
   }
 
   nav a{
-    font-size: 23px;
-    margin-top: 20px;
+    font-size: 32px;
+    margin-top: 35px;
+  }
+
+  .logo {
+    font-size: 28px;
   }
 
   .open-menu {
-    font-size: 1.6rem;
+    font-size: 2rem;
+  }
+
+  .close-menu{
+    font-size: 2rem;
   }
 
   .nav-bar{
-    padding: 20px;
+    padding: 27px;
   }
 
   .close-menu {
@@ -720,7 +728,7 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: 90px;
+    margin-top: 110px;
   }
 
   .first_1 {
