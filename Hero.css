@@ -1004,13 +1004,13 @@ body {
   }
 
   nav a{
-    font-size: 33px;
+    font-size: 35px;
     margin-top: 37px;
   }
 
   .logo {
-    font-size: 35px;
-    margin-left: 20px;
+    font-size: 32px;
+    margin-left: 30px;
   }
 
   .open-menu {
@@ -1056,7 +1056,7 @@ body {
 
   .freelance_1 {
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 27px;
     font-weight: 300;
     font-family: "Avenir", sans-serif;
     line-height: 1.5;

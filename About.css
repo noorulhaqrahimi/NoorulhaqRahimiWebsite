@@ -1080,25 +1080,26 @@ nav a{
 
 @media (min-width: 850px){
 nav a{
-  font-size: 38px;
-  margin-top: 48px;
+  font-size: 35px;
+  margin-top: 37px;
 }
 
 .logo{
   font-size: 32px;
+  margin-left: 37;
 }
 
 .nav-bar{
-  padding: 26px;
+  padding: 30px;
 }
 
 .open-menu{
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-right: 16px;
 }
 
 .close-menu{
-  font-size: 2rem;
+  font-size: 2.2rem;
   margin-right: 16px;
   margin-top: 8px;
 }
@@ -1133,7 +1134,7 @@ nav a{
 .exp {
   text-align: center;
   line-height: 1.5;
-  font-size: 27px;
+  font-size: 37px;
   justify-self: center;
 }
 
@@ -1147,10 +1148,10 @@ nav a{
 }
 
 .text {
-  font-size: 22px;
+  font-size: 30px;
   color: rgb(57, 46, 46);
   margin-top: 12px;
-  max-width: 480px;
+  max-width: 640px;
   justify-self: center;
   text-align: justify;
   line-height: 1.5;
@@ -1159,15 +1160,15 @@ nav a{
 .skills1 {
   display: flex;
   justify-content: center;
-  margin-top: 20px;
-  font-size: 28px;
+  margin-top: 40px;
+  font-size: 38px;
   color: black;
   font-weight: 600;
   margin-bottom: 15px;
 }
 
 .skills2 {
-  font-size: 22px;
+  font-size: 29px;
   justify-self: center;
   color: rgb(39, 33, 33);
 }
@@ -1180,7 +1181,7 @@ nav a{
 
 .html5 {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1188,13 +1189,13 @@ nav a{
 }
 
 .html{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .css5 {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1202,13 +1203,13 @@ nav a{
 }
 
 .css{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .js5 {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1216,8 +1217,8 @@ nav a{
 }
 
 .js{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .logos1 {
@@ -1228,7 +1229,7 @@ nav a{
 
 .tailwind {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1236,13 +1237,13 @@ nav a{
 }
 
 .tailwind1{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .react {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1250,13 +1251,13 @@ nav a{
 }
 
 .react1{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .typescript {
   background-color: white;
-  padding: 44px 44px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1264,8 +1265,8 @@ nav a{
 }
 
 .typescript1{
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .logos2 {
@@ -1276,7 +1277,7 @@ nav a{
 
 .photoshop {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1284,13 +1285,13 @@ nav a{
 }
 
 .Photoshop1{
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .illustrator {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1298,13 +1299,13 @@ nav a{
 }
 
 .illustrator1{
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .indesign {
   background-color: white;
-  padding: 44px 52px;
+  padding: 70px 70px;
   border-radius: 10px;
   justify-content: center;
   align-items: center;
@@ -1312,8 +1313,8 @@ nav a{
 }
 
 .indesign1{
-  width: 75px;
-  height: 75px;
+  width: 110px;
+  height: 110px;
 }
 
 .logos3 {
