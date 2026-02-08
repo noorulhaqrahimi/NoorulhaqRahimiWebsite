@@ -404,16 +404,20 @@ body {
     font-size: 20px;
   }
 
+  .nav-bar{
+    padding: 17px;
+  }
+
   .logo {
-    font-size: 20px;
+    font-size: 19px;
   }
 
   .open-menu {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
   }
 
   .close-menu {
-    font-size: 1.4rem;
+    font-size: 1.5rem;
   }
 
   .first {
@@ -719,7 +723,7 @@ body {
   .close-menu {
     font-size: 2rem;
   }
-  
+
   .nav-bar{
     padding: 27px;
   }
@@ -757,7 +761,7 @@ body {
 
   .freelance_1 {
     margin-top: 20px;
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 300;
     font-family: "Avenir", sans-serif;
     line-height: 1.5;
@@ -776,6 +780,7 @@ body {
     padding: 20px 60px;
     border-radius: 20px;
     font-weight: 600;
+    font-size: 16px;
     cursor: pointer;
     letter-spacing: 0.88px;
     box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
@@ -786,6 +791,7 @@ body {
     border-style: none;
     background-color: white;
     padding: 20px 60px;
+    font-size: 16px;
     border-radius: 20px;
     cursor: pointer;
     letter-spacing: 0.5px;
