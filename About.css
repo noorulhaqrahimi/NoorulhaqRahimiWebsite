@@ -1021,21 +1021,33 @@ nav a{
   }
 
   .open-menu{
-    font-size: 2rem;    
+    font-size: 2.2rem;    
+    margin-right: 13px;
   }
 
   .close-menu{
-    font-size: 2rem;
+    font-size: 2.2rem;
     
   }
 
   .logo{
-    font-size: 28px;
+    font-size: 33px;
   }
 
   .nav-bar{
-    padding: 27px;
+    padding: 30px;
   }
+
+  
+.about {
+  display: flex;
+  justify-self: center;
+  color: black;
+  font-size: 50px;
+  font-weight: 550;
+  font-family: "Avenir", sans-serif;
+  margin-top: 120px;
+}
 
 .exp {
   text-align: center;

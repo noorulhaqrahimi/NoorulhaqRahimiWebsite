@@ -699,10 +699,6 @@ body {
 }
 /*------------------------------------------Ipadpro-Size-------------------------------------------- */
 @media (min-width: 650px) {
-  .logo {
-    font-size: 23px;
-  }
-
   nav a{
     font-size: 32px;
     margin-top: 35px;
