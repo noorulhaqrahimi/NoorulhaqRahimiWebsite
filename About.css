@@ -202,7 +202,7 @@ body {
   text-align: center;
 }
 
-.html{
+.html {
   width: 48px;
   height: 48px;
 }
@@ -216,7 +216,7 @@ body {
   text-align: center;
 }
 
-.css{
+.css {
   width: 48px;
   height: 48px;
 }
@@ -230,7 +230,7 @@ body {
   text-align: center;
 }
 
-.js{
+.js {
   width: 48px;
   height: 48px;
 }
@@ -250,7 +250,7 @@ body {
   text-align: center;
 }
 
-.tailwind1{
+.tailwind1 {
   width: 48px;
   height: 48px;
 }
@@ -264,7 +264,7 @@ body {
   text-align: center;
 }
 
-.react1{
+.react1 {
   width: 48px;
   height: 48px;
 }
@@ -278,7 +278,7 @@ body {
   text-align: center;
 }
 
-.typescript1{
+.typescript1 {
   width: 48px;
   height: 48px;
 }
@@ -298,7 +298,7 @@ body {
   text-align: center;
 }
 
-.Photoshop1{
+.Photoshop1 {
   width: 48px;
   height: 48px;
 }
@@ -312,7 +312,7 @@ body {
   text-align: center;
 }
 
-.illustrator1{
+.illustrator1 {
   width: 48px;
   height: 48px;
 }
@@ -326,7 +326,7 @@ body {
   text-align: center;
 }
 
-.indesign1{
+.indesign1 {
   width: 48px;
   height: 48px;
 }
@@ -346,7 +346,7 @@ body {
   text-align: center;
 }
 
-.Premiere1{
+.Premiere1 {
   width: 48px;
   height: 48px;
 }
@@ -360,7 +360,7 @@ body {
   text-align: center;
 }
 
-.audition1{
+.audition1 {
   width: 48px;
   height: 48px;
 }
@@ -399,1395 +399,1392 @@ body {
   background-color: rgb(0, 80, 123);
 }
 
-@media (min-width: 460px){
-nav a{
-  font-size: 20px;
-}
-
-.logo{
-  font-size: 19px;
-}
-
-.nav-bar{
-  padding: 17px;
-}
-
-.open-menu{
-  font-size: 1.4rem;
-}
-
-.close-menu{
-  font-size: 1.4rem;
-}
-
-.about {
-  display: flex;
-  justify-self: center;
-  color: black;
-  font-size: 35px;
-  font-weight: 550;
-  font-family: "Avenir", sans-serif;
-  margin-top: 75px;
-}
-
-.about1 {
-  color: rgb(0, 80, 123);
-  margin-left: 8px;
-}
-
-.img {
-  display: flex;
-  justify-content: center;
-}
-
-.img1 {
-  width: 300px;
-  margin-top: 18px;
-  margin-bottom: 10px;
-  border-radius: 50%;
-}
-
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 19px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 17px;
-  color: rgb(57, 46, 46);
-  margin-top: 12px;
-  max-width: 360px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 16px;
-  font-size: 25px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 10px;
-}
-
-.skills2 {
-  font-size: 18px;
-  justify-self: center;
-  color: rgb(39, 33, 33);
-}
-
-.logos {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.html5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.html{
-  width: 90px;
-  height: 90px;
-}
-
-.css5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.css{
-  width: 90px;
-  height: 90px;
-}
-
-.js5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.js{
-  width: 90px;
-  height: 90px;
-}
-
-.logos1 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.tailwind {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.tailwind1{
-  width: 90px;
-  height: 90px;
-}
-
-.react {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.react1{
-  width: 90px;
-  height: 90px;
-}
-
-.typescript {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.typescript1{
-  width: 90px;
-  height: 90px;
-}
-
-.logos2 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.photoshop {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Photoshop1{
-  width: 88px;
-  height: 88px;
-}
-
-.illustrator {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.illustrator1{
-  width: 88px;
-  height: 88px;
-}
-
-.indesign {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.indesign1{
-  width: 88px;
-  height: 88px;
-}
-
-.logos3 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.premiere {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Premiere1{
-  width: 88px;
-  height: 88px;
-}
-
-.audition {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.audition1{
-  width: 88px;
-  height: 88px;
-}
-
-.lightroom {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.lightroom img {
-  width: 88px;
-  height: 88px;
-}
-
-.logotext{
-  font-size: 16px;
-}
-
-.btn-cvv {
-  justify-self: center;
-  margin-top: 16px;
-}
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 19px;
-  padding: 25px 60px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
-}
-
-@media (min-width: 650px){
-nav a{
-  font-size: 23px;
-  margin-top: 20px;
-}
-
-.logo{
-  font-size: 23px;
-}
-
-.nav-bar{
-  padding: 20px;
-}
-
-.open-menu{
-  font-size: 1.6rem;
-}
-
-.close-menu{
-  font-size: 1.6rem;
-}
-
-.about {
-  display: flex;
-  justify-self: center;
-  color: black;
-  font-size: 39px;
-  font-weight: 550;
-  font-family: "Avenir", sans-serif;
-  margin-top: 90px;
-}
-
-.about1 {
-  color: rgb(0, 80, 123);
-  margin-left: 8px;
-}
-
-.img {
-  display: flex;
-  justify-content: center;
-}
-
-.img1 {
-  width: 370px;
-  margin-top: 22px;
-  margin-bottom: 10px;
-  border-radius: 50%;
-}
-
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 27px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 22px;
-  color: rgb(57, 46, 46);
-  margin-top: 12px;
-  max-width: 480px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 20px;
-  font-size: 28px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 15px;
-}
-
-.skills2 {
-  font-size: 22px;
-  justify-self: center;
-  color: rgb(39, 33, 33);
-}
-
-.logos {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.html5 {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.html{
-  width: 90px;
-  height: 90px;
-}
-
-.css5 {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.css{
-  width: 90px;
-  height: 90px;
-}
-
-.js5 {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.js{
-  width: 90px;
-  height: 90px;
-}
-
-.logos1 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.tailwind {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.tailwind1{
-  width: 90px;
-  height: 90px;
-}
-
-.react {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.react1{
-  width: 90px;
-  height: 90px;
-}
-
-.typescript {
-  background-color: white;
-  padding: 44px 44px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.typescript1{
-  width: 90px;
-  height: 90px;
-}
-
-.logos2 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.photoshop {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Photoshop1{
-  width: 75px;
-  height: 75px;
-}
-
-.illustrator {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.illustrator1{
-  width: 75px;
-  height: 75px;
-}
-
-.indesign {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.indesign1{
-  width: 75px;
-  height: 75px;
-}
-
-.logos3 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.premiere {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Premiere1{
-  width: 75px;
-  height: 75px;
-}
-
-.audition {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.audition1{
-  width: 75px;
-  height: 75px;
-}
-
-.lightroom {
-  background-color: white;
-  padding: 44px 52px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.lightroom img {
-  width: 75px;
-  height: 75px;
-}
-
-.logotext{
-  font-size: 16px;
-}
-
-.btn-cvv {
-  justify-self: center;
-  margin-top: 16px;
-}
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 18px;
-  padding: 28px 70px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
-}
-
-@media (min-width: 770px){
-  nav a{
+@media (min-width: 460px) {
+  nav a {
+    font-size: 20px;
+  }
+
+  .logo {
+    font-size: 19px;
+  }
+
+  .nav-bar {
+    padding: 17px;
+  }
+
+  .open-menu {
+    font-size: 1.4rem;
+  }
+
+  .close-menu {
+    font-size: 1.4rem;
+  }
+
+  .about {
+    display: flex;
+    justify-self: center;
+    color: black;
+    font-size: 35px;
+    font-weight: 550;
+    font-family: "Avenir", sans-serif;
+    margin-top: 75px;
+  }
+
+  .about1 {
+    color: rgb(0, 80, 123);
+    margin-left: 8px;
+  }
+
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img1 {
+    width: 300px;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 19px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 17px;
+    color: rgb(57, 46, 46);
+    margin-top: 12px;
+    max-width: 360px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  .skills2 {
+    font-size: 18px;
+    justify-self: center;
+    color: rgb(39, 33, 33);
+  }
+
+  .logos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .html5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .html {
+    width: 90px;
+    height: 90px;
+  }
+
+  .css5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .css {
+    width: 90px;
+    height: 90px;
+  }
+
+  .js5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .js {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .tailwind {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tailwind1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .react {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .react1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .typescript {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .typescript1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .photoshop {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Photoshop1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .illustrator {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .illustrator1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .indesign {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .indesign1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .logos3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .premiere {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Premiere1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .audition {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .audition1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .lightroom {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .lightroom img {
+    width: 88px;
+    height: 88px;
+  }
+
+  .logotext {
+    font-size: 16px;
+  }
+
+  .btn-cvv {
+    justify-self: center;
+    margin-top: 16px;
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 19px;
+    padding: 25px 60px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
+}
+
+@media (min-width: 650px) {
+  nav a {
+    font-size: 23px;
+    margin-top: 20px;
+  }
+
+  .logo {
+    font-size: 23px;
+  }
+
+  .nav-bar {
+    padding: 20px;
+  }
+
+  .open-menu {
+    font-size: 1.6rem;
+  }
+
+  .close-menu {
+    font-size: 1.6rem;
+  }
+
+  .about {
+    display: flex;
+    justify-self: center;
+    color: black;
+    font-size: 39px;
+    font-weight: 550;
+    font-family: "Avenir", sans-serif;
+    margin-top: 90px;
+  }
+
+  .about1 {
+    color: rgb(0, 80, 123);
+    margin-left: 8px;
+  }
+
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img1 {
+    width: 370px;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 27px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 22px;
+    color: rgb(57, 46, 46);
+    margin-top: 12px;
+    max-width: 480px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 28px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  .skills2 {
+    font-size: 22px;
+    justify-self: center;
+    color: rgb(39, 33, 33);
+  }
+
+  .logos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .html5 {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .html {
+    width: 90px;
+    height: 90px;
+  }
+
+  .css5 {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .css {
+    width: 90px;
+    height: 90px;
+  }
+
+  .js5 {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .js {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .tailwind {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tailwind1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .react {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .react1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .typescript {
+    background-color: white;
+    padding: 44px 44px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .typescript1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .photoshop {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Photoshop1 {
+    width: 75px;
+    height: 75px;
+  }
+
+  .illustrator {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .illustrator1 {
+    width: 75px;
+    height: 75px;
+  }
+
+  .indesign {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .indesign1 {
+    width: 75px;
+    height: 75px;
+  }
+
+  .logos3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .premiere {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Premiere1 {
+    width: 75px;
+    height: 75px;
+  }
+
+  .audition {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .audition1 {
+    width: 75px;
+    height: 75px;
+  }
+
+  .lightroom {
+    background-color: white;
+    padding: 44px 52px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .lightroom img {
+    width: 75px;
+    height: 75px;
+  }
+
+  .logotext {
+    font-size: 16px;
+  }
+
+  .btn-cvv {
+    justify-self: center;
+    margin-top: 16px;
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 18px;
+    padding: 28px 70px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
+}
+
+@media (min-width: 770px) {
+  nav a {
     font-size: 32px;
     margin-top: 35px;
   }
 
-  .open-menu{
-    font-size: 2.2rem;    
+  .open-menu {
+    font-size: 2.2rem;
     margin-right: 13px;
   }
 
-  .close-menu{
+  .close-menu {
     font-size: 2.2rem;
-    
   }
 
-  .logo{
+  .logo {
     font-size: 33px;
   }
 
-  .nav-bar{
+  .nav-bar {
     padding: 30px;
   }
 
-  
-.about {
-  display: flex;
-  justify-self: center;
-  color: black;
-  font-size: 50px;
-  font-weight: 550;
-  font-family: "Avenir", sans-serif;
-  margin-top: 120px;
-}
-
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 32px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 25px;
-  color: rgb(57, 46, 46);
-  margin-top: 18px;
-  max-width: 560px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 30px;
-  font-size: 30px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 15px;
-}
-
-.skills2 {
-  font-size: 25px;
-  justify-self: center;
-  color: rgb(39, 33, 33);
-}
-
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 20px;
-  padding: 28px 70px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
-}
-
-@media (min-width: 850px){
-nav a{
-  font-size: 35px;
-  margin-top: 37px;
-}
-
-.logo{
-  font-size: 32px;
-  margin-left: 37;
-}
-
-.nav-bar{
-  padding: 30px;
-}
-
-.open-menu{
-  font-size: 2.2rem;
-  margin-right: 16px;
-}
-
-.close-menu{
-  font-size: 2.2rem;
-  margin-right: 16px;
-  margin-top: 8px;
-}
-
-.about {
-  display: flex;
-  justify-self: center;
-  color: black;
-  font-size: 50px;
-  font-weight: 550;
-  font-family: "Avenir", sans-serif;
-  margin-top: 130px;
-}
-
-.about1 {
-  color: rgb(0, 80, 123);
-  margin-left: 8px;
-}
-
-.img {
-  display: flex;
-  justify-content: center;
-}
-
-.img1 {
-  width: 550px;
-  margin-top: 22px;
-  margin-bottom: 0;
-  border-radius: 50%;
-}
-
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 37px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 30px;
-  color: rgb(57, 46, 46);
-  margin-top: 12px;
-  max-width: 640px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-  font-size: 38px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 15px;
-}
-
-.skills2 {
-  font-size: 29px;
-  justify-self: center;
-  color: rgb(39, 33, 33);
-}
-
-.logos {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.html5 {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.html{
-  width: 110px;
-  height: 110px;
-}
-
-.css5 {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.css{
-  width: 110px;
-  height: 110px;
-}
-
-.js5 {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.js{
-  width: 110px;
-  height: 110px;
-}
-
-.logos1 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.tailwind {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.tailwind1{
-  width: 110px;
-  height: 110px;
-}
-
-.react {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.react1{
-  width: 110px;
-  height: 110px;
-}
-
-.typescript {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.typescript1{
-  width: 110px;
-  height: 110px;
-}
-
-.logos2 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.photoshop {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Photoshop1{
-  width: 110px;
-  height: 110px;
-}
-
-.illustrator {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.illustrator1{
-  width: 110px;
-  height: 110px;
-}
-
-.indesign {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.indesign1{
-  width: 110px;
-  height: 110px;
-}
-
-.logos3 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 35px;
-}
-
-.premiere {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Premiere1{
-  width: 110px;
-  height: 110px;
-}
-
-.audition {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.audition1{
-  width: 110px;
-  height: 110px;
-}
-
-.lightroom {
-  background-color: white;
-  padding: 70px 70px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.lightroom img {
-  width: 110px;
-  height: 110px;
-}
-
-.logotext{
-  font-size: 25px;
-}
-
-.btn-cvv {
-  justify-self: center;
-  margin-top: 16px;
-}
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 30px;
-  padding: 30px 100px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
-}
-
-@media (min-width: 980px){
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 43px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 38px;
-  color: rgb(57, 46, 46);
-  margin-top: 12px;
-  max-width: 740px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 40px;
-  font-size: 44px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 28px;
-}
-
-.skills2 {
-  font-size: 37px;
-  justify-self: center;
-  margin-bottom: 50px;
-  color: rgb(39, 33, 33);
-}
-
-.btn-cvv {
-  justify-self: center;
-  margin-top: 16px;
-}
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 30px;
-  padding: 37px 130px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
-}
-
-@media (min-width: 1033px){
-  nav a{
-  font-size: 20px;
-}
-
-.logo{
-  font-size: 20px;
-}
-
-.nav-bar{
-  padding: 7px;
-}
-
-.open-menu{
-  font-size: 1.4rem;
-}
-
-.close-menu{
-  font-size: 1.4rem;
-}
-
-.about {
-  display: flex;
-  justify-self: center;
-  color: black;
-  font-size: 35px;
-  font-weight: 550;
-  font-family: "Avenir", sans-serif;
-  margin-top: 75px;
-}
-
-.about1 {
-  color: rgb(0, 80, 123);
-  margin-left: 8px;
-}
-
-.img {
-  display: flex;
-  justify-content: center;
-}
-
-.img1 {
-  width: 300px;
-  margin-top: 18px;
-  margin-bottom: 10px;
-  border-radius: 50%;
-}
-
-.exp {
-  text-align: center;
-  line-height: 1.5;
-  font-size: 19px;
-  justify-self: center;
-}
-
-.span1 {
-  font-weight: 600;
-}
-
-.span2 {
-  color: #126aad;
-  font-weight: 600;
-}
-
-.text {
-  font-size: 17px;
-  color: rgb(57, 46, 46);
-  margin-top: 12px;
-  max-width: 360px;
-  justify-self: center;
-  text-align: justify;
-  line-height: 1.5;
-}
-
-.skills1 {
-  display: flex;
-  justify-content: center;
-  margin-top: 16px;
-  font-size: 25px;
-  color: black;
-  font-weight: 600;
-  margin-bottom: 10px;
-}
-
-.skills2 {
-  font-size: 18px;
-  justify-self: center;
-  color: rgb(39, 33, 33);
-}
-
-.logos {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.html5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.html{
-  width: 90px;
-  height: 90px;
-}
-
-.css5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.css{
-  width: 90px;
-  height: 90px;
-}
-
-.js5 {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.js{
-  width: 90px;
-  height: 90px;
-}
-
-.logos1 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.tailwind {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.tailwind1{
-  width: 90px;
-  height: 90px;
-}
-
-.react {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.react1{
-  width: 90px;
-  height: 90px;
-}
-
-.typescript {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.typescript1{
-  width: 90px;
-  height: 90px;
-}
-
-.logos2 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.photoshop {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Photoshop1{
-  width: 88px;
-  height: 88px;
-}
-
-.illustrator {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.illustrator1{
-  width: 88px;
-  height: 88px;
-}
-
-.indesign {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.indesign1{
-  width: 88px;
-  height: 88px;
-}
-
-.logos3 {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 20px;
-}
-
-.premiere {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.Premiere1{
-  width: 88px;
-  height: 88px;
-}
-
-.audition {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.audition1{
-  width: 88px;
-  height: 88px;
-}
-
-.lightroom {
-  background-color: white;
-  padding: 27px 27px;
-  border-radius: 10px;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.lightroom img {
-  width: 88px;
-  height: 88px;
-}
-
-.logotext{
-  font-size: 16px;
-}
-
-.btn-cvv {
-  justify-self: center;
-  margin-top: 16px;
-}
-
-.btn-cv {
-  border-style: none;
-  color: #fff;
-  font-size: 19px;
-  padding: 25px 60px;
-  border-radius: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  font-weight: 600;
-  cursor: pointer;
-  letter-spacing: 0.88px;
-  box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
-  background-color: rgb(0, 80, 123);
-}
+  .about {
+    display: flex;
+    justify-self: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 550;
+    font-family: "Avenir", sans-serif;
+    margin-top: 120px;
+  }
+
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 32px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 25px;
+    color: rgb(57, 46, 46);
+    margin-top: 18px;
+    max-width: 560px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-size: 30px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  .skills2 {
+    font-size: 25px;
+    justify-self: center;
+    color: rgb(39, 33, 33);
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 20px;
+    padding: 28px 70px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
+}
+
+@media (min-width: 850px) {
+  nav a {
+    font-size: 35px;
+    margin-top: 37px;
+  }
+
+  .logo {
+    font-size: 32px;
+    margin-left: 37;
+  }
+
+  .nav-bar {
+    padding: 30px;
+  }
+
+  .open-menu {
+    font-size: 2.2rem;
+    margin-right: 16px;
+  }
+
+  .close-menu {
+    font-size: 2.2rem;
+    margin-right: 16px;
+    margin-top: 8px;
+  }
+
+  .about {
+    display: flex;
+    justify-self: center;
+    color: black;
+    font-size: 50px;
+    font-weight: 550;
+    font-family: "Avenir", sans-serif;
+    margin-top: 130px;
+  }
+
+  .about1 {
+    color: rgb(0, 80, 123);
+    margin-left: 8px;
+  }
+
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img1 {
+    width: 550px;
+    margin-top: 22px;
+    margin-bottom: 0;
+    border-radius: 50%;
+  }
+
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 37px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 30px;
+    color: rgb(57, 46, 46);
+    margin-top: 12px;
+    max-width: 640px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 38px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 15px;
+  }
+
+  .skills2 {
+    font-size: 29px;
+    justify-self: center;
+    color: rgb(39, 33, 33);
+  }
+
+  .logos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .html5 {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .html {
+    width: 110px;
+    height: 110px;
+  }
+
+  .css5 {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .css {
+    width: 110px;
+    height: 110px;
+  }
+
+  .js5 {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .js {
+    width: 110px;
+    height: 110px;
+  }
+
+  .logos1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .tailwind {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tailwind1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .react {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .react1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .typescript {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .typescript1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .logos2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .photoshop {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Photoshop1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .illustrator {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .illustrator1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .indesign {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .indesign1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .logos3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 35px;
+  }
+
+  .premiere {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Premiere1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .audition {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .audition1 {
+    width: 110px;
+    height: 110px;
+  }
+
+  .lightroom {
+    background-color: white;
+    padding: 70px 70px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .lightroom img {
+    width: 110px;
+    height: 110px;
+  }
+
+  .logotext {
+    font-size: 25px;
+  }
+
+  .btn-cvv {
+    justify-self: center;
+    margin-top: 16px;
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px 100px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
+}
+
+@media (min-width: 980px) {
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 43px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 38px;
+    color: rgb(57, 46, 46);
+    margin-top: 12px;
+    max-width: 740px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-size: 44px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 28px;
+  }
+
+  .skills2 {
+    font-size: 37px;
+    justify-self: center;
+    margin-bottom: 50px;
+    color: rgb(39, 33, 33);
+  }
+
+  .btn-cvv {
+    justify-self: center;
+    margin-top: 16px;
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 30px;
+    padding: 37px 130px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
+}
+
+@media (min-width: 1033px) {
+  .logo {
+    font-size: 20px;
+    margin-left: 50px;
+  }
+
+  span li a {
+    margin: 0 10px;
+    font-size: 20px;
+  }
+
+  .nav-bar {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    padding: 25px;
+  }
+
+  .menu {
+    margin-right: 100px;
+  }
+  .about {
+    display: flex;
+    justify-self: center;
+    color: black;
+    font-size: 35px;
+    font-weight: 550;
+    font-family: "Avenir", sans-serif;
+    margin-top: 75px;
+  }
+
+  .about1 {
+    color: rgb(0, 80, 123);
+    margin-left: 8px;
+  }
+
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+
+  .img1 {
+    width: 300px;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+  }
+
+  .exp {
+    text-align: center;
+    line-height: 1.5;
+    font-size: 19px;
+    justify-self: center;
+  }
+
+  .span1 {
+    font-weight: 600;
+  }
+
+  .span2 {
+    color: #126aad;
+    font-weight: 600;
+  }
+
+  .text {
+    font-size: 17px;
+    color: rgb(57, 46, 46);
+    margin-top: 12px;
+    max-width: 360px;
+    justify-self: center;
+    text-align: justify;
+    line-height: 1.5;
+  }
+
+  .skills1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    font-size: 25px;
+    color: black;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+
+  .skills2 {
+    font-size: 18px;
+    justify-self: center;
+    color: rgb(39, 33, 33);
+  }
+
+  .logos {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .html5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .html {
+    width: 90px;
+    height: 90px;
+  }
+
+  .css5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .css {
+    width: 90px;
+    height: 90px;
+  }
+
+  .js5 {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .js {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos1 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .tailwind {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .tailwind1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .react {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .react1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .typescript {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .typescript1 {
+    width: 90px;
+    height: 90px;
+  }
+
+  .logos2 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .photoshop {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Photoshop1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .illustrator {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .illustrator1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .indesign {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .indesign1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .logos3 {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+  }
+
+  .premiere {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .Premiere1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .audition {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .audition1 {
+    width: 88px;
+    height: 88px;
+  }
+
+  .lightroom {
+    background-color: white;
+    padding: 27px 27px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .lightroom img {
+    width: 88px;
+    height: 88px;
+  }
+
+  .logotext {
+    font-size: 16px;
+  }
+
+  .btn-cvv {
+    justify-self: center;
+    margin-top: 16px;
+  }
+
+  .btn-cv {
+    border-style: none;
+    color: #fff;
+    font-size: 19px;
+    padding: 25px 60px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    cursor: pointer;
+    letter-spacing: 0.88px;
+    box-shadow: 0 5px 20px 0.1px rgba(0, 0, 0, 0.5);
+    background-color: rgb(0, 80, 123);
+  }
 }
