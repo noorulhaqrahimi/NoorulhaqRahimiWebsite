@@ -1522,7 +1522,7 @@ body {
   .img {
     display: flex;
     justify-content: start;
-    margin-left: 100px;
+    margin-left: 80px;
   }
   
   .img1 {
@@ -1591,6 +1591,7 @@ body {
     justify-content: start;
     margin-left: 220px;
     margin-top: 20px;
+    margin-bottom: 50px;
   }
 
   .html5 {
@@ -1693,8 +1694,9 @@ body {
 
   .logos2 {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: start;
     margin-top: 20px;
+    margin-left: 220px;
   }
 
   .photoshop {
@@ -1704,6 +1706,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-right: 60px;
   }
 
   .Photoshop1 {
@@ -1718,6 +1721,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-right: 60px;
   }
 
   .illustrator1 {
@@ -1727,7 +1731,7 @@ body {
 
   .indesign {
     background-color: white;
-    padding: 27px 27px;
+    padding: 27px 32px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
@@ -1741,17 +1745,20 @@ body {
 
   .logos3 {
     display: flex;
-    justify-content: space-evenly;
     margin-top: 20px;
+    position: absolute;
+    top: 888px;
+    left: 830px;
   }
 
   .premiere {
     background-color: white;
-    padding: 27px 27px;
+    padding: 27px 30px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-right: 56px;
   }
 
   .Premiere1 {
@@ -1761,11 +1768,12 @@ body {
 
   .audition {
     background-color: white;
-    padding: 27px 27px;
+    padding: 27px 29px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-right: 56px;
   }
 
   .audition1 {
@@ -1775,7 +1783,7 @@ body {
 
   .lightroom {
     background-color: white;
-    padding: 27px 27px;
+    padding: 27px 29px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
@@ -1788,7 +1796,7 @@ body {
   }
 
   .logotext {
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .btn-cvv {
@@ -1799,11 +1807,11 @@ body {
   .btn-cv {
     border-style: none;
     color: #fff;
-    font-size: 19px;
-    padding: 25px 60px;
+    font-size: 30px;
+    padding: 35px 180px;
     border-radius: 20px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     font-weight: 600;
     cursor: pointer;
     letter-spacing: 0.88px;
