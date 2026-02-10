@@ -81,7 +81,7 @@ body {
   display: none;
 }
 
-@media (max-width: 1027px) {
+@media (max-width: 1030px) {
   header span li {
     position: relative;
     bottom: 50px;
